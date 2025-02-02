@@ -16,7 +16,7 @@ pip install -r requirements.txt
 - Check you see `Match: d17780c96b5452d220164a321f240ee49b236d57b7a38744c7ddc47980265542`
 - Check you have a file named `Match_d17780c96b5452d220164a321f240ee49b236d57b7a38744c7ddc47980265542.txt`
 
-### Restore yopur password
+### Restore your password
 - Obtain Vaultwarden database or database backup file. Actual database usually named `db.sqlite3` and stored in `/data/` directory in the docker container 
 
 - Next you need to get your email, password hash and salt from "users" table in database. You can use any sqlite database viewer for it (I can recommend `sqlitebrowser`) and run next sql query:
