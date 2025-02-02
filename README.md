@@ -11,6 +11,7 @@ pip install -r requirements.txt
 ## Usage
 
 ### Test run
+- Run `python main.py` without doing any changes
 - Press Enter to continue when prompted (This can take a while with large numbers of guesses)
 - Check you see `Match: d17780c96b5452d220164a321f240ee49b236d57b7a38744c7ddc47980265542`
 - Check you have a file named `Match_d17780c96b5452d220164a321f240ee49b236d57b7a38744c7ddc47980265542.txt`
